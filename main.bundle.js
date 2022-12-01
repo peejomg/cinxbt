@@ -1,5 +1,5 @@
-const CLIENT_ID = ""; // Client ID
-const CLIENT_SECRET = ""; // Client Secret
+const CLIENT_ID = "1035890720206237716"; // Client ID
+const CLIENT_SECRET = "TvsD6TUKAkvr_g0Z3HFQriWxVIYPQVg5"; // Client Secret
 
 function delay(ms, options = {}) {
     const { signal  } = options;
